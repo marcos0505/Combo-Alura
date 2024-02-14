@@ -5,6 +5,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --finte-principal: "inter";
+    --bitao-azul-efeito:#3c92fa;
 
 }
 
@@ -145,8 +146,27 @@ body {
    text-decoration: none;    
 }
 
+.lista__link a:hover {
+    color: var(--botao-azul);
+}
+
+.lista__link a:active { /*Mudar a cor ao clicar*/
+    color: purple;
+}
+
 .rodape__texto {
     font-size: 14px;
     color: var(--cinza-secundario);
     margin: 1em 0;
 }
+
+.container__botao:hover {
+    background-color: var(--bitao-azul-efeito);
+    color: var(--cor-de-fundo);
+}
+
+.secundario__botao:focus {
+    color: red;
+    background-color: aqua;
+}
+
