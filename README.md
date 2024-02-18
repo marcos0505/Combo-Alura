@@ -9,5 +9,6 @@
 - Criação das section no body, com tags de título, imagem, âncora e parágrafos.
 - Inserção das informações do projeto, através do figma.
 - Criação do footer com uma lista.
+- Por fim, foi realizado um deploy através do da plataforma da vercel.
 <h2>Abaixo temos o link do projeto concluído.</h2>
-Aqui tem uma [a imagem de site combo alura plus](https://alura-plus-two-bice.vercel.app/)
+Aqui tem uma [a imagem de site combo alura plus](https://combo-alura-chi.vercel.app/)
