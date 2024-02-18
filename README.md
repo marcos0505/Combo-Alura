@@ -1,5 +1,9 @@
 <h1>Inicio de projeto Alura Plus.</h1>
 <h2>Projeto concluído.</h2>
+
+###Imagem
+![Está é uma imagem alt de telas alura.](img/celular.png)
+
 <h3>Tópicos abordados.</h3>
 
 - Criação de repositório no github.
