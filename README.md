@@ -2,7 +2,7 @@
 <h2>Projeto concluído.</h2>
 
 ###Imagem
-![Está é uma imagem alt de telas alura.](img/celular.png)
+![Está é uma imagem alt de telas alura.](img/Telas.png)![Imagem alt de um notebook.](img/Notebook.png)
 
 <h3>Tópicos abordados.</h3>
 
